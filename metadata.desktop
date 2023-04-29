@@ -1,15 +1,15 @@
 [SddmGreeterTheme]
-Name=Utterly-Sweet
-Description=Utterly-Sweet SDDM theme
-Author=Himprakash Deka
+Name=Big-Pic
+Description=Utterly-Swee SDDM theme
+Author=Himprakash Deka / Marian Alexander Arlt / trailjeep
 License=GPL-2.0+
 Type=sddm-theme
 Version=1.0
-Website=https://himdek.com/Utterly-Sweet-Plasma
+Website=https://github.com/trailjeep/Big-Pic-SDDM-Theme
 Screenshot=Preview.png
 MainScript=Main.qml
 ConfigFile=theme.conf
 TranslationsDirectory=translations
-Email=himprakashd@gmail.com
-Theme-Id=Utterly-Sweet
+Email=
+Theme-Id=Big-Pic
 Theme-API=2.0
