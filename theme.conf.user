@@ -1,0 +1,15 @@
+[General]
+type=image
+color=#4a1c4a
+Blur=true
+BlurRadius=50
+
+Font="monospace"
+
+PasswordFieldCharacter="█" // ⁙ ⁕ ○ █ ©
+
+AvatarPixelSize=240
+UsePngInsteadOfMask=true
+AvatarOutline=false
+AvatarOutlineColor="white"
+AvatarOutlineWidth=2
